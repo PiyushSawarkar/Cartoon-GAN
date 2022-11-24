@@ -1,0 +1,1 @@
+python predict.py -i input_image.png -o output_image.png
